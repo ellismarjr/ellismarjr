@@ -13,6 +13,7 @@
 ![HTML Badge](https://img.shields.io/badge/-HTML-orange)
 ![CSS Badge](https://img.shields.io/badge/-CSS-blue)
 ![JavaScript Badge](https://img.shields.io/badge/-JavaScript-yellow)
+![JavaScript Badge](https://img.shields.io/badge/-Typescript-blue)
 ![ReactJS Badge](https://img.shields.io/badge/-ReactJS-blue)
 ![React Native Badge](https://img.shields.io/badge/-React%20Native-purple)
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-limegreen) 
