@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Júnior de Oliveira/h1>
+<h1 align="center">Hi 👋, I'm Júnior de Oliveira</h1>
 <h3 align="center">Front-end Developer | Mobile Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ellismarjr" alt="ellismarjr" /> </p>
 
