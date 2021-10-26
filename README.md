@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Júnior de Oliveira</h1>
-<h3 align="center">Front-end Developer | Mobile Developer</h3>
+<h3 align="center">Fullstack Developer</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ellismarjr" alt="ellismarjr" /> </p>
 
 <div align="center">
@@ -19,10 +19,10 @@
 ![NodeJS Badge](https://img.shields.io/badge/-Node.js-limegreen) 
 
 
-- 💬 Ask me about **Javascript && Typescript**
+- 💬 Ask me about **Javascript, Typescript, ReactJS, NodeJS && React Native**
 
 - ⚡ Fun fact **In addition to programming, I play guitar, bass and piano**
-- 🌱 I’m currently learning **NextJS, SASS**
+<!-- - 🌱 I’m currently learning **NextJS, SASS** -->
   
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ellismarjr&show_icons=true&theme=dark" alt="ellismarjr" />
